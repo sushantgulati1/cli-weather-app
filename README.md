@@ -7,9 +7,11 @@ A simple weather app in Node.js
 
 * Clone the repository
 * Generate your API key by signing up [here](https://home.openweathermap.org/)
-* Replace the string of asterisks by your API key in index.js
+* Replace the string of asterisks by your API key in *index.js*
 * cd into the directory and run the following commands:
 ```
 npm install
-node index.js
+node index.js -c cityname
 ```
+
+Supported values of cityname can be found [here](http://bulk.openweathermap.org/sample/).
