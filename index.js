@@ -1,5 +1,4 @@
 const request = require('request');
-const argv = require('yargs').argv;
 const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
