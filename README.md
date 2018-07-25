@@ -1,7 +1,5 @@
 # cli-weather-app
-Node.js Weather App
-
-A simple weather app in Node.js
+A Node.js Weather App
 
 ## Usage
 
@@ -11,7 +9,11 @@ A simple weather app in Node.js
 * cd into the directory and run the following commands:
 ```
 npm install
-node index.js -c cityname
+node index.js
+```
+* Open your browser and visit
+```
+localhost:4000
 ```
 
 Supported values of cityname can be found [here](http://bulk.openweathermap.org/sample/).
