@@ -1,18 +1,17 @@
 {
   "name": "weatherapp",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A weather app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
+   },
   "author": "Sushant Gulati",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "pug": "^2.0.3",
-    "request": "^2.87.0",
-    "yargs": "^12.0.1"
+    "request": "^2.87.0"
   }
 }

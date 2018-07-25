@@ -1,5 +1,4 @@
 body {
-  width: 800px;
   margin: 0 auto;
   font-family: 'Open Sans', sans-serif;
   background: linear-gradient(rgba(219,177, 205, 0.03), #dbb1cd 60%);
@@ -40,9 +39,7 @@ fieldset {
 .submit-button:hover {
   border:2px solid #515151;
 }
-p {
-  
-}
+
 input[type="submit"]
 {
   border-radius: 2px;
